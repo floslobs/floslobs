@@ -101,16 +101,6 @@ Me considero una persona curiosa, autodidacta y siempre dispuesta a aprender, ex
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=floslobs&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" />
-
-</div>
-
----
-
 ## 🤝 Conectemos
 
 <div align="center">
